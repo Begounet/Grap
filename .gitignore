@@ -73,3 +73,5 @@ dev/Grap/Intermediate/*
 
 # Cache files for the editor to use
 dev/Grap/DerivedDataCache/*
+
+dev/Grap/Packages
