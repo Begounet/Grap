@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Grap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
@@ -55,6 +62,10 @@
 		{
 			"Name": "XCodeSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "ISM",
+			"Enabled": true
 		}
 	]
 }
