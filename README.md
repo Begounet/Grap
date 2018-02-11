@@ -4,7 +4,7 @@ What are we even doing ¯\\_(ツ)_/¯
 
 ## Built With
 
-* [UE4 4.18.3](https://www.unrealengine.com/) - Unreal Engine 4
+* [Unreal Engine 4.18.3](https://www.unrealengine.com/)
 
 ## Authors
 
