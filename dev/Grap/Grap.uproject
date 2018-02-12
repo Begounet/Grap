@@ -66,6 +66,10 @@
 		{
 			"Name": "ISM",
 			"Enabled": true
+		},
+		{
+			"Name": "MediaCompositing",
+			"Enabled": false
 		}
 	]
 }
