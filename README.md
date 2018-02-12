@@ -21,4 +21,11 @@ See also the list of [contributors](https://github.com/Begounet/Grap/graphs/cont
 * "[Pipimi TheWaveVR](https://poly.google.com/view/5eD2t1zKSNg)" by [Evol Love](https://poly.google.com/user/0KYiq8tYHqj) is licensed under [CC-BY](https://creativecommons.org/licenses/by/2.0/)
 
 ## Screenshots
-![Screenshot 1](screenshots/Screenshot_1.png)
+![Screenshot2](screenshots/Screenshot_2.png)
+![Screenshot3](screenshots/Screenshot_3.png)
+![Screenshot4](screenshots/Screenshot_4.png)
+![Screenshot5](screenshots/Screenshot_5.png)
+![Screenshot6](screenshots/Screenshot_6.png)
+![Screenshot7](screenshots/Screenshot_7.png)
+![Screenshot8](screenshots/Screenshot_8.png)
+![Screenshot9](screenshots/Screenshot_9.png)
